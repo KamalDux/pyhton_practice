@@ -1,0 +1,16 @@
+#01
+The command for checking the version of Python is "python --version"
+
+#02
+PVM stands for Python Virtual Machine, it executes the compiled the bytecode (.pyc) after the interpretation.
+
+#03
+Steps to convert the python source file to bytecode are:
+type in terminal:
+python -m py_compile your_file.py
+
+#04
+type the file name in the command rpompt or terminal and press enter to run a python file. But you need to open the python shell in the terminal first. This means you need to type python and press enter to enter the python shell.
+
+#05
+Data types in python are not keywords, they are classes and the variables that we initialize are not variables but they are objects of the classes of datatypes.

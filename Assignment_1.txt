@@ -1,0 +1,14 @@
+#01
+Guido van Rossum developed Python.
+
+#02
+Feburary 20, 1991 was the year when the first version of python was launched.
+
+#03
+Yes, python is a platform independent language but you need to have the PVM (Python-Virtual-Machine) which converts the compiled bytecode into .pyc executable code.
+
+#04 
+You need to use a '#' symbol to make a single line comment in python.
+
+#05
+No, python is not statically typed language, it is dynamically typed language and thus the datatype is decided on the value of a variable of the variable by the compiler. JIT-> Just in Time Complier.
